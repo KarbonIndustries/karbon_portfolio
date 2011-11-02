@@ -1,0 +1,92 @@
+<portfolio>
+	<settings>
+		<backgroundColor value="080808"/>
+		<preloaderForegroundColor value="C9AE52"/>
+		<preloaderForegroundColor2 value="594D25"/>
+		<preloaderBackgroundColor value="0F0F0F"/>
+		<preloaderWidth value="600"/>
+		<preloaderHeight value="13"/>
+		<color1 value="C9AE52"/>
+		<color2 value="C9AE52"/>
+		<color3 value="5e5127"/>
+		<trackColor value="202020"/>
+		<thumbColor value="C9AE52"/>
+		<thumbWidth value="66"/>
+		<thumbRadius value="10"/>
+		<scrollbarHeight value="13"/>
+		<scrollbarSidePadding value="0"/>
+		<scrollbarTopPadding value="30"/>
+		<scrollbarGlide value=".8"/>
+		<tweenSpeed value="1"/>
+		<padding value="50"/>
+		<resume label="Resume &#187; PDF" url="data/shammel_lee_cv.pdf"/>
+		<artist name="Shammel Lee" company="Karbon Inc." email="shammel@karbonnyc.com" phone="631.833.8744"/>
+		<artistBio>
+		<![CDATA[Interactive programmer + designer with over 11 years of education + professional experience in the web and graphic design industry specializing in interactive web programming + design, email campaign design, brand identity, photo retouching & manipulation and fashion & product photography.]]>
+		</artistBio>
+		<textfieldWidth value="300"/>
+		<textfieldLeftMargin value="-3.5"/>
+		<textfieldBottomMargin value="-4"/>
+		<projectLabelTopMargin value="10"/>
+		<fontSize value="12"/>
+		<textfieldLeading value="3"/>
+		<textfieldLetterSpacing value=".2"/>
+		<artistInfoRightMargin value="30"/>
+		<portfolioHeight value="495"/>
+		<imageDirectory value="images"/>
+		<preloadedImages value="38"/>
+		<artworkSpacing value="5"/>
+		<projectSpacing value="25"/>
+		<categoryFontSize value="20"/>
+		<categoryFontColor value="C9AE52"/>
+		<categoryLineWeight value="1"/>
+		<categoryLineColor value="C9AE52"/>
+	</settings>
+	<projects>
+		<section category="WEB" imageFormat="jpg">
+			<project imagePrefix="grand_large_" numberOfImages="2" title="Grand Large Inc." description="Site|CMS design + programming [Flash + XML + PHP + MySQL + jQuery + AJAX + HTML + CSS]" url="http://www.grandlargeinc.com"/>
+			<project imagePrefix="sg_" numberOfImages="2" title="Shelley Goldberg LLC" description="Site|CMS programming [Flash + XML + PHP + MySQL + jQuery + AJAX + HTML + CSS]" url="http://www.shelleygoldberg.com"/>
+			<project imagePrefix="ltg_" numberOfImages="2" title="The Levinson Tractenberg Group" description="Site programming [Flash + XML]" url="http://www.ltgny.com"/>
+			<project imagePrefix="keggy_" numberOfImages="1" title="Keggy" description="Site design + programming + photography [Flash + PHP]" url="http://www.keggy.com"/>
+			<project imagePrefix="helen_wang_" numberOfImages="1" title="Helen Wang" description="Site design + programming [Flash + XML]" url="http://www.helenwangny.com/flash.html"/>
+			<project imagePrefix="peter_han_" numberOfImages="2" title="Peter Han" description="Site design + programming [Flash + XML]" url="http://www.peterhanstudio.com"/>
+			<project imagePrefix="bill_travis_" numberOfImages="1" title="Bill Travis" description="Site design + programming [Flash + XML]" url="http://www.billtravisphoto.com"/>
+			<project imagePrefix="penpixel_" numberOfImages="1" title="PenPixel Design" description="Site design + programming [Flash + XML]" url="http://www.penpixeldesign.com"/>
+			<project imagePrefix="24dp_" numberOfImages="1" title="24DP" description="Site design + programming [Flash + XML + CSS]" url="http://www.24dp.com"/>
+			<project imagePrefix="art_farm_" numberOfImages="2" title="The Art Farm in The City" description="Site design + programming [PHP + JavaScript + HTML + CSS + Flash + XML]" url="http://www.theartfarms.org/afic/"/>
+			<project imagePrefix="care_conscious_" numberOfImages="1" title="Care Conscious" description="Site design [PHP + HTML + CSS]" url="http://www.careconscious.com"/>
+			<project imagePrefix="de_facto_" numberOfImages="1" title="De Facto" description="Site maintenance + retouching [HTML + Photoshop]" url="http://www.defactoinc.com"/>
+			<project imagePrefix="devlin_video_" numberOfImages="2" title="Devlin Video" description="Site design + programming [Flash + XML + CSS]" url="http://www.devlinvideo.com"/>
+			<project imagePrefix="a_lawless_" numberOfImages="1" title="A Lawless" description="Site maintenance [HTML + Javascript]"/>
+		</section>
+		<section category="EMAIL" imageFormat="jpg">
+			<project imagePrefix="24dp_email_rebrand_" numberOfImages="1" title="24DP" description="Rebranding email campaign design + coding [HTML + CSS]" url="http://www.24dp.com/shammel/work/newsletters/24dp_rebranding/"/>
+			<project imagePrefix="24dp_email_director_auction_" numberOfImages="1" title="24DP" description="Director Auction email campaign design + coding [HTML + CSS]" url="http://www.24dp.com/shammel/work/newsletters/24dp_auction/"/>
+			<project imagePrefix="b2b_email_rms_" numberOfImages="1" title="B2B" description="RMS email campaign design + coding [HTML + CSS]" url="http://www.24dp.com/shammel/work/newsletters/b2b_rms/"/>
+		</section>
+		<section category="IDENTITY" imageFormat="png">
+			<project imagePrefix="karbon_logo_" numberOfImages="1" title="Karbon Inc." description="Brand Identity"/>
+			<project imagePrefix="pop_bar_logo_" numberOfImages="1" title="Pop Bar" description="Brand Identity Concept"/>
+			<project imagePrefix="cc_logo_" numberOfImages="1" title="Care Conscious" description="Brand Identity"/>
+			<project imagePrefix="pearlinbrite_logo_" numberOfImages="1" title="PearlinBrite" description="Brand Identity"/>
+			<project imagePrefix="24dp_logo_" numberOfImages="1" title="24DP" description="Brand Identity"/>
+			<project imagePrefix="spectrum_logo_" numberOfImages="1" title="Spectrum Mobile" description="Brand Identity"/>
+			<project imagePrefix="cfc_logo_" numberOfImages="1" title="Carbon Fiber Club" description="Brand Identity"/>
+			<project imagePrefix="fm_logo_" numberOfImages="1" title="FM Entertainment" description="Brand Identity"/>
+			<project imagePrefix="wavebox_logo_" numberOfImages="1" title="Wavebox Design" description="Brand Identity"/>
+			<project imagePrefix="elija_logo_" numberOfImages="1" title="The Elija School" description="Brand Identity"/>
+			<project imagePrefix="bien_etre_logo_" numberOfImages="1" title="Bien Etre" description="Brand Identity"/>
+			<project imagePrefix="zr_logo_" numberOfImages="1" title="Zero Restrictions" description="Brand Identity"/>
+			<project imagePrefix="fraser_diamonds_logo_" numberOfImages="1" title="Fraser Diamonds" description="Brand Identity"/>
+			<project imagePrefix="emma_brown_logo_" numberOfImages="1" title="Emma Brown Productions" description="Brand Identity"/>
+			<project imagePrefix="vis_logo_" numberOfImages="2" title="Vision Investigative Services" description="Brand Identity"/>
+			<project imagePrefix="evl_logo_" numberOfImages="1" title="Eagle Van Lines" description="Brand Identity"/>
+		</section>
+		<section category="RETOUCHING" imageFormat="jpg">
+			<project imagePrefix="beauty_retouch_1_" numberOfImages="2" title="Photography + Photo Retouch" description="Beauty"/>
+			<project imagePrefix="beauty_retouch_2_" numberOfImages="2" title="Photo Retouch" description="Beauty"/>
+			<project imagePrefix="photo_manip_" numberOfImages="2" title="Photo Retouch" description="Manipulation"/>
+			<project imagePrefix="rage_comp_" numberOfImages="2" title="Photo Retouch" description="Composite"/>
+		</section>
+	</projects>
+</portfolio>

@@ -1,0 +1,24 @@
+<projectDescription>
+  <id>1250586292041</id>
+  <name>karbon portfolio</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/Shammel/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/Shammel/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>./shammel/classes</classPath>
+  <defaultApp>file:///production/projects/2009/karbon_interaktiv/web/pages/portfolio/081709/sandbox/081709_2/index.fla</defaultApp>
+  <rootURI>file:///production/projects/2009/karbon_interaktiv/web/pages/portfolio/081709/sandbox/081709_2/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Document.as">file:///production/projects/2009/karbon_interaktiv/web/pages/portfolio/081709/sandbox/081709_2/shammel/classes/Document.as</uri>
+    <uri label="portfolio.xml">file:///production/projects/2009/karbon_interaktiv/web/pages/portfolio/081709/sandbox/081709_2/xml/portfolio.xml</uri>
+    <uri label="index.html">file:///production/projects/2009/karbon_interaktiv/web/pages/portfolio/081709/sandbox/081709_2/index.html</uri>
+    <uri label="index.swf">file:///production/projects/2009/karbon_interaktiv/web/pages/portfolio/081709/sandbox/081709_2/index.swf</uri>
+    <uri label="expressInstall.swf">file:///production/projects/2009/karbon_interaktiv/web/pages/portfolio/081709/sandbox/081709_2/expressInstall.swf</uri>
+    <uri label="index.fla">file:///production/projects/2009/karbon_interaktiv/web/pages/portfolio/081709/sandbox/081709_2/index.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

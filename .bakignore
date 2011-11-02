@@ -1,0 +1,14 @@
+archive/
+clients/
+data/
+dribbble/
+files/
+fonts/
+images/
+karbon/
+misc_work/
+*.swf
+*.fla
+*.ico
+*.jpg
+*.png
