@@ -22,7 +22,7 @@
 		<resume label="Resume &#187; PDF" url="data/shammel_lee_cv.pdf"/>
 		<artist name="Shammel Lee" company="Karbon Inc." email="shammel@karbonnyc.com" phone="631.833.8744"/>
 		<artistBio>
-		<![CDATA[Interactive programmer + designer with over 11 years of education + professional experience in the web and graphic design industry specializing in interactive web programming + design, email campaign design, brand identity, photo retouching & manipulation and fashion & product photography.]]>
+		<![CDATA[Interactive programmer + designer with over 12 years of education + professional experience in the web and graphic design industry specializing in interactive web programming + design, email campaign design, brand identity, photo retouching & manipulation and fashion & product photography.]]>
 		</artistBio>
 		<textfieldWidth value="300"/>
 		<textfieldLeftMargin value="-3.5"/>
@@ -44,7 +44,7 @@
 	</settings>
 	<projects>
 		<section category="WEB" imageFormat="jpg">
-			<project imagePrefix="grand_large_" numberOfImages="2" title="Grand Large Inc." description="Site|CMS design + programming [Flash + XML + PHP + MySQL + jQuery + AJAX + HTML + CSS]" url="http://www.grandlargeinc.com"/>
+			<!-- <project imagePrefix="grand_large_" numberOfImages="2" title="Grand Large Inc." description="Site|CMS design + programming [Flash + XML + PHP + MySQL + jQuery + AJAX + HTML + CSS]" url="http://www.grandlargeinc.com"/> -->
 			<project imagePrefix="sg_" numberOfImages="2" title="Shelley Goldberg LLC" description="Site|CMS programming [Flash + XML + PHP + MySQL + jQuery + AJAX + HTML + CSS]" url="http://www.shelleygoldberg.com"/>
 			<project imagePrefix="ltg_" numberOfImages="2" title="The Levinson Tractenberg Group" description="Site programming [Flash + XML]" url="http://www.ltgny.com"/>
 			<project imagePrefix="keggy_" numberOfImages="1" title="Keggy" description="Site design + programming + photography [Flash + PHP]" url="http://www.keggy.com"/>
